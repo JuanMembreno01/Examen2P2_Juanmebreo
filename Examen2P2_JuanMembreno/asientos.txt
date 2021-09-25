@@ -1,0 +1,1 @@
+3;caucho;electrico;si;5;tela;manual;no;
